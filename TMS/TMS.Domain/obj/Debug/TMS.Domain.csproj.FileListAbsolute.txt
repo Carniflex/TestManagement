@@ -1,0 +1,32 @@
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\TMS.Domain.dll.config
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\TMS.Domain.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\TMS.Domain.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\EntityFramework.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\TMS.Common.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\TMS.Common.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\EntityFramework.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\obj\Debug\TMS.Domain.csprojResolveAssemblyReference.cache
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\obj\Debug\TMS.Domain.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\obj\Debug\TMS.Domain.pdb
+C:\Users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\obj\Debug\TMS.Domain.Migrations.test.resources
+C:\Users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.Domain\obj\Debug\TMS.Domain.csproj.GenerateResource.Cache
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\TMS.Domain.dll.config
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\TMS.Domain.dll
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\TMS.Domain.pdb
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\EntityFramework.dll
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\TMS.Common.dll
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\TMS.Common.pdb
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\EntityFramework.xml
+C:\Repositories\TMS\TMS\TMS.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.csprojResolveAssemblyReference.cache
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.Migrations.test.resources
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.Migrations.deletesteps.resources
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.csproj.GenerateResource.Cache
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.dll
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.pdb
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.Migrations.refactorTestCase.resources
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.Migrations.refactorTestCase1.resources
+C:\Repositories\TMS\TMS\TMS.Domain\obj\Debug\TMS.Domain.Migrations.refactorTestCase2.resources

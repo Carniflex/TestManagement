@@ -1,0 +1,58 @@
+﻿@model TMS.WebUI.Models.PaymentTypeVm
+<script src="~/Scripts/jquery-1.8.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header">Test Plans</h3>
+    </div>
+</div><!--/.row-->
+<div class="row" id="createProject">
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">Primary Project Info</div>
+            <div class="panel-body">
+                <div>
+                    <label>Project Name</label>
+                    @Html.TextBoxFor(model => model.projectModel.ProjectName, new { @class = "form-control", Name = "ProjectName" })
+                    @Html.ValidationMessageFor(model => model.projectModel.ProjectName)
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">Bill Project Info
+            </div>
+            <div class="panel-body">
+                <label>Payment Type</label>
+                @Html.DropDownListFor(model => model.projectModel.PaymentType, Model.select, new {@class = "form-control"})
+                @Html.ValidationMessageFor(model => model.projectModel.PaymentType)</div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">Additional Project Info</div>
+            <div class="panel-body">
+                <label>Project Status</label>
+                @Html.TextBoxFor(model => model.projectModel.Status, new {@class = "form-control"})
+                @Html.ValidationMessageFor(model => model.projectModel.Status)
+
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <input type="button" value="Create" class="btn btn-success" id="btnSave"/>
+        @Html.ActionLink("Back to Projects", "Projects", null, new {@class = "btn btn-default"})
+    </div>
+
+   
+}
+
+</div>

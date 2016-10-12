@@ -1,0 +1,27 @@
+﻿@model TMS.Common.Models.TestCaseModel
+
+<div class="row">
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">@Model.TestCaseName</div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <li class="list-group-item"><b>Test case name:</b> @Model.TestCaseName</li>
+                    <li class="list-group-item"><b>Test case author:</b> @Model.Author</li>
+                    <li class="list-group-item"><b>Status:</b> @Model.RunStatus</li>
+                    <li class="list-group-item"><b>SRS:</b> @Model.SrsLink</li>
+                    <li class="list-group-item"><b>Steps:</b> <pre>@Model.Steps</pre></li>
+     </ul>
+            </div>
+        </div>
+    </div>
+    </div>
+
+    <div class="form-group">
+        <p>
+            <input type="button" class="btn btn-warning" id="editTestCase" value="Edit this test case">
+            @Html.ActionLink("Delete test case", "DeleteTestCase", "TestCase", new { id = @Model.ID }, new { @class = "btn btn-danger" })
+        </p>
+    </div>
+
+

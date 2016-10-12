@@ -1,0 +1,75 @@
+﻿@{
+    
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header">Generate Check list</h3>
+    </div>
+</div><!--/.row-->
+<div class="row">
+
+    <div class="col-md-3">
+        <label>Select project:</label>
+        @Html.DropDownList("dropdownProjects", new SelectList(string.Empty, "Value", "Text"), "Please select a project", new {@class = "form-control"})
+    </div>
+    <div class="col-md-3">
+        <label>Select test plan:</label>
+        @Html.DropDownList("dropdownPlan", new SelectList(string.Empty, "Value", "Text"), "Please select a testplan", new {@class = "form-control"})
+
+    </div>
+
+
+</div>
+<div class="row">
+    <div class="col-md-1">
+        <br/>
+        <input type="button" value="Submit" id="sbmCheckList" class="btn btn-success">
+    </div>
+</div>
+<hr>
+<div class="row">
+    <div class="center-block">
+    <div class="col-md-9">
+     
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            Test Suites
+            </div>
+            <div class="panel-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <td>
+                                Suite
+                            </td>
+                            <td>Author</td>
+                            <td>Created</td>
+                        </tr>
+                    </thead>
+                    <tbody id="suites"></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Test Cases
+                </div>
+            <div class="panel-body">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <td>
+                                Case</td>
+                            <td>Author</td>
+                            <td>Run Status</td>
+                        </tr>
+                    </thead>
+                    <tbody id="cases"></tbody>
+                </table>
+            </div>
+        </div>
+        </div>
+        </div>
+</div>

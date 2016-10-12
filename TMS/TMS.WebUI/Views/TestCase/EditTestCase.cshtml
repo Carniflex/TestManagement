@@ -1,0 +1,63 @@
+﻿@model TMS.WebUI.Models.TCRunStatusVm
+
+<script src="~/Scripts/jquery-1.8.2.min.js"></script>
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <div class="col-md-12">
+        <div class="panel panel-default">
+            <input type="hidden" value=@Model.TestCaseModel.ID id="testCaseId"/>
+            <div class="panel-heading">Edit test case</div>
+            <div class="panel-body">
+
+                <div>
+                    @Html.LabelFor(model => model.TestCaseModel.TestCaseName)
+                </div>
+                <div>
+                    @Html.TextBoxFor(model => model.TestCaseModel.TestCaseName, new { @class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.TestCaseModel.TestCaseName)
+                </div>
+                <div>
+                    @Html.LabelFor(model => model.TestCaseModel.Author)
+                </div>
+                <div>
+                    @Html.TextBoxFor(model => model.TestCaseModel.Author, new { @class = "form-control", @disabled = "disabled" })
+                    @Html.ValidationMessageFor(model => model.TestCaseModel.Author)
+                </div>
+
+                  <div>  
+                      <label>Add new test case step</label>
+                </div>
+
+                <div>
+                    @Html.TextAreaFor(model => model.TestCaseModel.Steps, new { @class = "form-control", @rows = "12", @style = "resize: vertical;", Name = "Description" })
+                    @Html.ValidationMessageFor(model => model.TestCaseModel.Steps)
+                </div>
+                <div>
+                    @Html.LabelFor(model => model.TestCaseModel.SrsLink)
+                </div>
+                <div>
+                    @Html.TextBoxFor(model => model.TestCaseModel.SrsLink, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.TestCaseModel.SrsLink)
+                </div>
+
+                <div>
+                    @Html.LabelFor(model => model.TestCaseModel.RunStatus)
+                </div>
+                <div>
+                    @Html.DropDownListFor(model => model.TestCaseModel.RunStatus, Model.select, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.TestCaseModel.RunStatus)
+                </div>
+
+                @Html.TextBoxFor(model => model.TestCaseModel.TestSuiteId, new { @type = "hidden" })
+
+            </div>
+        </div>
+        <input type="submit" class="btn btn-success" id="updateTestCase" value="Save test case" />
+    </div>
+}

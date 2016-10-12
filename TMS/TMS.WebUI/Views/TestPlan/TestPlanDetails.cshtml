@@ -1,0 +1,103 @@
+﻿@model TMS.Common.Models.TestPlanModel
+
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header"><b>@Model.TestPlanName</b> details
+</h3>
+    </div>
+</div><!--/.row-->
+<div class="row">
+    <input type="hidden" value=@Model.ID id="currentPlanId"/>
+    <input type="hidden" id="currentTestSuiteId"/>
+    <input type="hidden" id="currentTestCaseId">
+
+  
+   
+    <div class="col-md-9" id="partialcontent">
+   
+   <div class="row">
+       <div class="col-md-6">
+        <div class="panel panel-default">
+            <div class="panel-heading"></div>
+            <div class="panel-body">
+                <div class="canvas-wrapper">
+                    <canvas class="chart" id="mypiechart" ></canvas>
+                </div>
+            </div>
+        </div>
+           </div>
+   
+       <div class="col-md-6">
+           <div class="panel panel-default">
+               <div class="panel-heading"></div>
+               <div class="panel-body">
+                  
+               </div>
+           </div>
+       </div>
+   <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">Primary Test Plan Info</div>
+            <div class="panel-body">
+                <div>
+                    <label>Test Plan Name:</label>
+                    @Html.DisplayFor(model => model.TestPlanName, new { @class = "form-control" })
+                    
+                </div>
+
+                <div>
+                    <label>Related to project:</label>
+                    @Html.DisplayFor(model => model.Project.ProjectName, new { @class = "form-control" })
+                </div>
+
+                <div>
+                    <label>Created by:</label>
+                    @Html.DisplayFor(model => model.Author, new { @class = "form-control" })
+                </div>
+
+                <div>
+                    <label>Test Plan Status:</label>
+                    @Html.DisplayFor(model => model.Status, new { @class = "form-control" })
+                </div>
+            </div>
+        </div>
+       </div>
+       </div>
+        <button class="btn btn-primary" id="addsuite" onclick="">Add New Test Suite</button>
+    </div>
+    <div class="col-md-3">
+        <div class="panel panel-default">
+            <div class="panel-heading"><p><b>Test Plan Structure</b></p></div>
+            <div class="panel-body" id="suite">
+                     <ul>
+                    @foreach (var suite in @Model.TestSuites)
+                    {
+
+                        <li class="list-group-item" ><span class="badge">@suite.TestCases.Count()</span><a style="cursor: pointer" value=@suite.ID id="suiteitem">@suite.TestSuiteName</a></li>
+                        if (suite.TestCases.Count() != 0)
+                        {
+                            <li class="list-group-item">
+                             
+                                <ul class="list-group" id="case">
+                                    @foreach (var tcase in suite.TestCases)
+                                    {
+                                        <li class="list-group-item">
+                                            <a style="cursor: pointer" value="@tcase.ID" id="testcasedetails"> @tcase.TestCaseName</a>
+                                        </li>
+
+                                    }
+
+                                </ul>
+                            </li>
+                        }
+                    }
+                         </ul>
+                </div>
+                </>
+                <!--/.well -->
+            </div>
+            <!--/sidebar-nav-fixed -->
+            @Html.HiddenFor(model => model.ID)
+        </div>
+        </div>
+   

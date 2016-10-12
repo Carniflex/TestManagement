@@ -1,0 +1,176 @@
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\TMS.WebUI.dll.config
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\TMS.WebUI.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\TMS.WebUI.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Antlr3.Runtime.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.AspNet.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.Core.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\EntityFramework.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\EntityFramework.SqlServer.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Data.Edm.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Data.OData.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Web.Infrastructure.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Newtonsoft.Json.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Ninject.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Spatial.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Helpers.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Http.OData.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Mvc.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Optimization.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Razor.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.WebPages.Deployment.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.WebPages.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.WebPages.Razor.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\TMS.Common.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\TMS.Domain.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\WebGrease.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\WebMatrix.Data.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\WebMatrix.WebData.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\TMS.Common.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\TMS.Domain.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\EntityFramework.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\EntityFramework.SqlServer.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Ninject.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Newtonsoft.Json.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Helpers.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Mvc.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Razor.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.WebPages.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.WebPages.Deployment.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.WebPages.Razor.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\WebMatrix.Data.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\WebMatrix.WebData.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.AspNet.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.Core.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Web.Http.OData.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Data.Edm.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\Microsoft.Data.OData.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\System.Spatial.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\de\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\es\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\fr\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\it\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ja\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ko\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\ru\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\obj\Debug\TMS.WebUI.csprojResolveAssemblyReference.cache
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\obj\Debug\TMS.WebUI.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI\obj\Debug\TMS.WebUI.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\TMS.WebUI.dll.config
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\TMS.WebUI.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\TMS.WebUI.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Antlr3.Runtime.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.AspNet.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.Core.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\EntityFramework.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Data.Edm.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Data.OData.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Newtonsoft.Json.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Ninject.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Spatial.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Helpers.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Http.OData.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Mvc.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Optimization.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Razor.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.WebPages.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\TMS.Common.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\TMS.Domain.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\WebGrease.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\WebMatrix.Data.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\WebMatrix.WebData.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\TMS.Common.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\TMS.Domain.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\EntityFramework.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Ninject.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Newtonsoft.Json.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Helpers.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Mvc.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Razor.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.WebPages.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\WebMatrix.Data.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\WebMatrix.WebData.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.AspNet.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.Core.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OAuth.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Web.Http.OData.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Data.Edm.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\Microsoft.Data.OData.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\System.Spatial.xml
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\de\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\es\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\fr\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\it\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ja\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ko\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\ru\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\obj\Debug\TMS.WebUI.csprojResolveAssemblyReference.cache
+C:\Repositories\TMS\TMS\TMS.WebUI\obj\Debug\TMS.WebUI.dll
+C:\Repositories\TMS\TMS\TMS.WebUI\obj\Debug\TMS.WebUI.pdb

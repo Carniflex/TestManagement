@@ -1,0 +1,30 @@
+﻿@model TMS.Common.Models.TestSuiteModel
+<div class="row">
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-heading">Edit @Model.TestSuiteName</div>
+                <div class="panel-body">
+                    <div>
+                        <label>Test Suite Name</label>
+                        @Html.TextBoxFor(model => model.TestSuiteName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.TestSuiteName)
+                    </div>
+                    <div>
+
+                        @Html.TextBoxFor(model => model.TestPlanId, new { @type = "hidden" })
+                        @Html.ValidationMessageFor(model => model.TestPlanId)
+                    </div>
+                    @Html.HiddenFor(model => model.ID)
+                </div>
+            </div>
+            <input type="submit" class="btn btn-success" value="Save" />
+            <input type="button" class="btn btn-primary" id="addtestcase" value="Add new test case" />
+        </div>
+
+    }
+</div>

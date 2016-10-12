@@ -1,0 +1,25 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>QA Tool @ViewBag.Title</title>
+
+    @Styles.Render("~/css")
+    @Styles.Render("~/min.css")
+
+
+
+</head>
+<body>
+    
+    <div class="row">
+
+        @RenderBody()
+
+
+  </div>	<!--/.main-->
+ 
+</body>
+</html>

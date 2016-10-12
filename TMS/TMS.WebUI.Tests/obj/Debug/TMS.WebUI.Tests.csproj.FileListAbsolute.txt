@@ -1,0 +1,136 @@
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.Tests.dll.config
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.Tests.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.Tests.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.Edm.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.OData.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Spatial.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Http.OData.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Razor.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Domain.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Common.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Ninject.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\EntityFramework.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Razor.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Http.OData.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.Edm.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.OData.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\System.Spatial.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Domain.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Common.pdb
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\Ninject.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\EntityFramework.xml
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\de\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\es\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\fr\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\it\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ja\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ko\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\ru\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\obj\Debug\TMS.WebUI.Tests.csprojResolveAssemblyReference.cache
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\obj\Debug\TMS.WebUI.Tests.dll
+c:\users\matcievskiy\documents\visual studio 2013\Projects\TMS\TMS.WebUI.Tests\obj\Debug\TMS.WebUI.Tests.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.Tests.dll.config
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.Tests.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.Tests.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Spatial.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Domain.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Common.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Ninject.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.WebUI.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\System.Spatial.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Domain.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\TMS.Common.pdb
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\Ninject.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\obj\Debug\TMS.WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\obj\Debug\TMS.WebUI.Tests.dll
+C:\Repositories\TMS\TMS\TMS.WebUI.Tests\obj\Debug\TMS.WebUI.Tests.pdb

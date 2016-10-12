@@ -1,0 +1,48 @@
+﻿@model TMS.Common.Models.TestSuiteModel
+
+<div class="row">
+    <div class="col-md-12">
+       <div class="row">
+                <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading"></div>
+                <div class="panel-body">
+                    <div class="canvas-wrapper">
+                        <canvas class="chart" id="mypiechart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading"></div>
+                <div class="panel-body">
+
+                </div>
+            </div>
+        </div>
+           <div class="col-md-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">@Model.TestSuiteName info:</div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    <li class="list-group-item"><b>Test Suite Name: </b> @Model.TestSuiteName</li>
+                    <li class="list-group-item"><b>Created: </b> @Html.DisplayFor(m=>m.CreatedDate)</li>
+                    <li class="list-group-item"><b>Author: </b> @Model.Author</li>
+                    <li class="list-group-item"><b>Test cases in suite: </b> @Model.TestCases.Count()</li>
+                </ul>
+            </div>
+        </div>
+            <div class="form-group">
+                <p>
+                    <input type="submit" class="btn btn-warning" id="editTestSuite" value="Edit test suite"/>
+                    @Html.ActionLink("Delete test suite", "DeleteTestSuite", "TestSuite", new { id = @Model.ID },new { @class = "btn btn-danger" })
+                </p>
+               
+            </div>
+
+       </div>
+           </div>
+    </div>
+</div>

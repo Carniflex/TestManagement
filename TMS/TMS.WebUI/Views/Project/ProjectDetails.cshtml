@@ -1,0 +1,50 @@
+﻿@model TMS.Common.Models.ProjectModel
+
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header">@Model.ProjectName details</h3>
+    </div>
+</div>
+
+<p>
+    @Html.ActionLink("Edit this project", "CreateProject", null, new { @class="btn btn-primary"})
+</p>
+
+<div class="row">
+  <div class="col-md-4">
+       <div class="panel panel-default">
+           <div class="panel-heading">Primary Project Info</div>
+           <div class="panel-body">
+               <ul class="list-group">
+                   <li class="list-group-item"><b>Project name:</b> @Model.ProjectName</li>
+                   <li class="list-group-item"><b>Project status:</b> @Model.Status</li>
+               </ul>
+           </div>
+       </div>
+    </div>
+    <div class="col-md-4">
+    <div class="panel panel-default">
+       <div class="panel-heading">Billing Project Info</div>
+        <div class="panel-body">
+            <ul class="list-group">
+                <li class="list-group-item"><b>Billing type:</b> @Model.PaymentType</li>
+            </ul>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">Project test plans:</div>
+            <div class="panel-body">
+                <ul class="list-group">
+                    @foreach (var plan in @Model.TestPlans)
+                    {
+                        <li class="list-group-item">@Html.ActionLink(@plan.TestPlanName,"TestPlanDetails","TestPlan",new{id = @plan.ID},null)</li>
+                    }
+                </ul>
+            </div>
+            </div>
+        </div>
+
+        </div>
+

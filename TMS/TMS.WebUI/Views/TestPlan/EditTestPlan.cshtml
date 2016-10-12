@@ -1,0 +1,45 @@
+﻿@model TMS.WebUI.Models.TestPlanVm
+
+<div class="row">
+    <div class="col-lg-12">
+        <h3 class="page-header">Edit <b>@Model.testPlanModel.TestPlanName</b></h3>
+    </div>
+</div>
+       <div class="col-md-4">
+        <div class="panel panel-default">
+            <div class="panel-heading">Primary Test Plan Info</div>
+            <div class="panel-body">
+                 @Html.HiddenFor(model=>model.testPlanModel.ID)
+                <div>
+                    <label>Test Plan Name:</label>
+                    @Html.TextBoxFor(model => model.testPlanModel.TestPlanName, new {@class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.testPlanModel.TestPlanName)
+                </div>
+
+                <div>
+                    <label>Related to project:</label>
+                    @Html.DropDownListFor(x => x.testPlanModel.ProjectId, Model.relatedToProject, new {@class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.testPlanModel.ProjectId)
+                </div>
+
+                <div>
+                    <label>Link to SRS:</label>
+                    @Html.TextBoxFor(model => model.testPlanModel.SrsLink, new {@class = "form-control"})
+                    @Html.ValidationMessageFor(model => model.testPlanModel.SrsLink)
+                </div>
+                <div>
+                    <label>Test Plan Status:</label>
+                    @Html.DropDownListFor(model => model.testPlanModel.Status,Model.status, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(model => model.testPlanModel.TestPlanName)
+                </div>
+
+            </div>
+        </div>
+    </div>
+ <div class="col-md-12">
+     <input type="submit" value="Save" class="btn btn-success" id="btnUpdateTestPlan" />
+        @Html.ActionLink("Back to Test Plan List", "Index", null, new { @class = "btn btn-default" })
+    </div>
+   
+
+
