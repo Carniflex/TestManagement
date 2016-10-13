@@ -14,7 +14,7 @@ $(document)
 function validate() {
 
   
-    $('#createProject').validate({ // initialize the plugin
+    $('#createProject').valid({ // initialize the plugin
         rules: {
             ProjectName: {
                 required: true

@@ -1,14 +1,4 @@
 ﻿@model IEnumerable<TMS.Common.Models.TestPlanModel>
-<div class="row">
-    <div class="col-lg-12">
-        <h3 class="page-header">Test Plans</h3>
-        <div class="alert alert-success hifade in" style="display:none" id="successbar">
-            <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
-            <strong>Test Plan saved successfully.</strong>
-        </div>
-
-    </div>
-</div>
 
 <p>
     @Html.ActionLink("Add new test plan", "CreateTestPlan", null, new { @class = "btn btn-primary" })
