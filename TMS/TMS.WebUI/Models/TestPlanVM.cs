@@ -11,9 +11,7 @@ namespace TMS.WebUI.Models
     public class TestPlanVm
     {
         public TestPlanModel testPlanModel { get; set; }
+        public List<SelectListItem> relatedToVersion { get; set; }
 
-        public List<SelectListItem> relatedToProject { get; set; }
-
-        public List<SelectListItem> status { get; set; }
     }
 }

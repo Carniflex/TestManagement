@@ -19,13 +19,13 @@ namespace TMS.WebUI.Controllers
 
           private ITestPlanRepository _planrepository;
           private IProjectRepository _projectrepository;
-        private ITestPlanStatusRepository _testPlanStatusRepository;
+       
 
         public TestPlanController() {
 
             this._planrepository = new EfTestPlanRepository();
             this._projectrepository = new EfProjectRepository();
-            this._testPlanStatusRepository = new EFTestPlanStatusRepository();
+           
         }
         public ActionResult Index()
         {
@@ -42,7 +42,7 @@ namespace TMS.WebUI.Controllers
          public ActionResult CreateTestPlan() {
 
             var projects = _projectrepository.Projects();
-             var status = _testPlanStatusRepository.TestPlanStatuses();
+           
 
              List<SelectListItem> items = new List<SelectListItem>();
              List<SelectListItem> statuses = new List<SelectListItem>();
@@ -71,7 +71,7 @@ namespace TMS.WebUI.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    testPlan.Author = User.Identity.Name;
+                   
                     _planrepository.AddTestPlan(testPlan);
                     _planrepository.Save();
                     return Json(String.Format("{0}?status=success", Url.Action("Index", "TestPlan")));
@@ -107,7 +107,7 @@ namespace TMS.WebUI.Controllers
         public ActionResult EditTestPlan(int id = 0)
         {
             var projects = _projectrepository.Projects();
-            var status = _testPlanStatusRepository.TestPlanStatuses();
+           
 
             List<SelectListItem> items = new List<SelectListItem>();
             List<SelectListItem> statuses = new List<SelectListItem>();
@@ -118,10 +118,7 @@ namespace TMS.WebUI.Controllers
                 items.Add(new SelectListItem { Text = p.ProjectName, Value = p.ID.ToString() });
 
             }
-            foreach (var s in status)
-            {
-                statuses.Add(new SelectListItem { Text = s.Status, Value = s.ID.ToString() });
-            }
+        
             return View(new TestPlanVm
             {
                 testPlanModel = _planrepository.GetTestPlan(id),

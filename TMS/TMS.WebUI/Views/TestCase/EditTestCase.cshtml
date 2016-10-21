@@ -22,14 +22,7 @@
                     @Html.TextBoxFor(model => model.TestCaseModel.TestCaseName, new { @class = "form-control"})
                     @Html.ValidationMessageFor(model => model.TestCaseModel.TestCaseName)
                 </div>
-                <div>
-                    @Html.LabelFor(model => model.TestCaseModel.Author)
-                </div>
-                <div>
-                    @Html.TextBoxFor(model => model.TestCaseModel.Author, new { @class = "form-control", @disabled = "disabled" })
-                    @Html.ValidationMessageFor(model => model.TestCaseModel.Author)
-                </div>
-
+               
                   <div>  
                       <label>Add new test case step</label>
                 </div>
@@ -38,13 +31,7 @@
                     @Html.TextAreaFor(model => model.TestCaseModel.Steps, new { @class = "form-control", @rows = "12", @style = "resize: vertical;", Name = "Description" })
                     @Html.ValidationMessageFor(model => model.TestCaseModel.Steps)
                 </div>
-                <div>
-                    @Html.LabelFor(model => model.TestCaseModel.SrsLink)
-                </div>
-                <div>
-                    @Html.TextBoxFor(model => model.TestCaseModel.SrsLink, new { @class = "form-control" })
-                    @Html.ValidationMessageFor(model => model.TestCaseModel.SrsLink)
-                </div>
+               
 
                 <div>
                     @Html.LabelFor(model => model.TestCaseModel.RunStatus)

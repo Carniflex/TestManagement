@@ -9,15 +9,11 @@ namespace TMS.Common.Models
 
       public string ProjectName { get; set; }
 
-      public string PaymentType { get; set; }
-
-      public string Status { get; set; }
-
       public UserModel User { get; set; }
 
       public int UserId { get; set; }
 
-      public IEnumerable<TestPlanModel> TestPlans { get; set; }
+      public IEnumerable<ProjectVersionModel> ProjectVersions { get; set; }
 
    }
 }

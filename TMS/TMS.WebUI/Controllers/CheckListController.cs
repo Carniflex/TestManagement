@@ -43,7 +43,7 @@ namespace TMS.WebUI.Controllers
         public ActionResult getTestPlans(int projectId)
         {
 
-            var testPlans = _testPlanRepository.TestPlans().Where(p => p.ProjectId == projectId);
+            var testPlans = _testPlanRepository.TestPlans().Where(p => p.ProjectVersionId == projectId);
             return Json(testPlans, JsonRequestBehavior.AllowGet);
         }
 

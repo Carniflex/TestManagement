@@ -15,8 +15,6 @@ namespace TMS.Domain.ModelMappers
             {
                 ID = model.ID,
                 ProjectName = model.ProjectName,
-                Status = model.Status,
-                PaymentType = model.PaymentType,
                 UserId = model.UserId
             };
 
@@ -25,11 +23,7 @@ namespace TMS.Domain.ModelMappers
             {
                 ID = model.ID,
                 TestPlanName = model.TestPlanName,
-                ProjectId = model.ProjectId,
-                CreatedDeate = model.CreatedDeate,
-                Author = model.Author,
-                SrsLink = model.SrsLink,
-                Status = model.Status
+                ProjectVersionId = model.ProjectVersionId
             };
 
         public static readonly Func<TestSuiteModel, TestSuite> TestSuiteModelToEntityMapper =
@@ -37,8 +31,6 @@ namespace TMS.Domain.ModelMappers
             {
                 ID = model.ID,
                 TestSuiteName = model.TestSuiteName,
-                CreatedDate = model.CreatedDate,
-                Author = model.Author,
                 TestPlanId = model.TestPlanId
 
             };
@@ -48,9 +40,7 @@ namespace TMS.Domain.ModelMappers
             {
                 ID = model.ID,
                 TestCaseName = model.TestCaseName,
-                Author = model.Author,
                 RunStatus = model.RunStatus,
-                SrsLink = model.SrsLink,
                 Steps = model.Steps,
                 TestSuiteId = model.TestSuiteId
 
@@ -59,28 +49,21 @@ namespace TMS.Domain.ModelMappers
 
 
 
-        public static readonly Func<TestPlanStatusModel, TestPlanStatus> TestPlanStatusModelToEntityMapper =
-            model => new TestPlanStatus()
-            {
-                ID = model.ID,
-                Status = model.Status
-            };
-
-
-        public static readonly Func<TestCaseRunStatusModel, TestCaseRunStatus> TestCaseRunStatusModelToEntityMapper =
+            public static readonly Func<TestCaseRunStatusModel, TestCaseRunStatus> TestCaseRunStatusModelToEntityMapper =
             model => new TestCaseRunStatus()
             {
                 ID = model.ID,
                 Status = model.Status
             };
 
+            public static readonly Func<ProjectVersionModel, ProjectVersion> ProjectVersionToModelToEntityMapper =
+model => new ProjectVersion()
+{
+    ID = model.ID,
+    ProjectVersionName = model.ProjectVersionName,
+    ProjectId = model.ProjectId
 
-        public static readonly Func<ProjectPaymentTypeModel, ProjectPaymentType> ProjectPaymentTypeModelToEntityMapper =
-            model => new ProjectPaymentType()
-            {
-                ID = model.ID,
-                PaymentType = model.PaymentType
-            };
+};
 
   
     }

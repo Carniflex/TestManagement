@@ -14,18 +14,11 @@ namespace TMS.Domain.Entities
 
         public TestCase() {
 
-            this.SrsLink = "none";
-           
-
-        }
+        
+                   }
 
          [Required]
         public string TestCaseName { get; set; }
-
-        public string Author { get; set; }
-
-
-        public string SrsLink { get; set; }
 
         public string RunStatus { get; set; }
 

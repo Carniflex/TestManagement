@@ -2,7 +2,6 @@
 {
     public class TestCaseRunStatusModel : BaseEntityModel
     {
-
-       public string Status { get; set; }
+        public string Status { get; set; }
     }
 }

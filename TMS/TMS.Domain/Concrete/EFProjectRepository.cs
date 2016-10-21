@@ -34,15 +34,11 @@ namespace TMS.Domain.Concrete
             {
                 return model;
             }
-            model.TestPlans = project.TestPlans.Select(p => new TestPlanModel()
+            model.ProjectVersions = project.ProjectVersions.Select(p => new ProjectVersionModel()
             {
                 ID = p.ID,
                 ProjectId = p.ProjectId,
-                Author = p.Author,
-                TestPlanName = p.TestPlanName,
-                CreatedDeate = p.CreatedDeate,
-                SrsLink = p.SrsLink,
-                Status = p.Status
+                ProjectVersionName = p.ProjectVersionName
 
             });
             return model;

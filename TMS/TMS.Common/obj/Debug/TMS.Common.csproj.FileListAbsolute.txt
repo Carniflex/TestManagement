@@ -7,3 +7,15 @@ C:\Repositories\TMS\TMS\TMS.Common\bin\Debug\TMS.Common.dll
 C:\Repositories\TMS\TMS\TMS.Common\bin\Debug\TMS.Common.pdb
 C:\Repositories\TMS\TMS\TMS.Common\obj\Debug\TMS.Common.dll
 C:\Repositories\TMS\TMS\TMS.Common\obj\Debug\TMS.Common.pdb
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\TMS.Common.dll
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\TMS.Common.pdb
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\obj\Debug\TMS.Common.dll
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\obj\Debug\TMS.Common.pdb
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\TMS.Common.dll.config
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\EntityFramework.dll
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\EntityFramework.xml
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\obj\Debug\TMS.Common.csprojResolveAssemblyReference.cache
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\DotNetOpenAuth.Core.dll
+D:\my_projects\TESTMANAGEMENT\TMS\TMS.Common\bin\Debug\DotNetOpenAuth.Core.xml

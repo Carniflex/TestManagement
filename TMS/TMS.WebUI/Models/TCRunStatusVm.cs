@@ -10,9 +10,6 @@ namespace TMS.WebUI.Models
     public class TCRunStatusVm
     {
         public TestCaseModel TestCaseModel { get; set; }
-
-        public TestCaseStepModel TestCaseStepModel { get; set; }
-
         public List<SelectListItem> select { get; set; }
     }
 }

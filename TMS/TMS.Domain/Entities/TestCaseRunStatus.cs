@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace TMS.Domain.Entities
 {
-   public class TestCaseRunStatus:BaseEntity
+    public class TestCaseRunStatus : BaseEntity
     {
-
-       public string Status { get; set; }
+    public string Status { get; set; }
     }
 }

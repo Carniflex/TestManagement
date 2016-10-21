@@ -13,18 +13,12 @@ namespace TMS.Domain.Entities
 
        public TestSuite() {
 
-           this.CreatedDate = DateTime.Now;
-           this.TestCases = new List<TestCase>();
+        
        }
        public string TestSuiteName { get; set; }
 
        [ForeignKey("TestPlanId")]
        public TestPlan TestPlan { get; set; }
-
-       public string Author { get; set; }
-
-      [DataType(DataType.Date), DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}", ApplyFormatInEditMode = true)]
-       public DateTime CreatedDate { get; set; }
 
       public int TestPlanId { get; set; }
 

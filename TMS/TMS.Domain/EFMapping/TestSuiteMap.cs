@@ -21,13 +21,7 @@ namespace TMS.Domain.Mapping
 
             Property(t => t.TestSuiteName);
 
-            Property(t => t.Author);
-
-            Property(t => t.CreatedDate);
-
             Property(t => t.TestPlanId).IsRequired();
-
-            ToTable("Projects");
 
             HasRequired(t => t.TestPlan).WithMany(p => p.TestSuites).HasForeignKey(t => t.TestPlanId).WillCascadeOnDelete(false);
         }

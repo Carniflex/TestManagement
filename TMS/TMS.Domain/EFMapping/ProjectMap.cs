@@ -16,10 +16,6 @@ namespace TMS.Domain.EFMapping
 
             Property(t => t.ProjectName);
 
-            Property(t => t.PaymentType);
-
-            Property(t => t.Status);
-
             Property(t => t.UserId).IsRequired();
 
             ToTable("Projects");

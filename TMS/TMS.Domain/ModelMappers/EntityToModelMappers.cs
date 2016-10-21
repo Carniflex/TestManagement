@@ -13,8 +13,6 @@ namespace TMS.Domain.ModelMappers
           {
               ID = model.ID,
               ProjectName = model.ProjectName,
-              Status = model.Status,
-              PaymentType = model.PaymentType,
               UserId = model.UserId
           };
 
@@ -23,11 +21,7 @@ namespace TMS.Domain.ModelMappers
          {
              ID = model.ID,
              TestPlanName = model.TestPlanName,
-             ProjectId = model.ProjectId,
-             CreatedDeate = model.CreatedDeate,
-             Author = model.Author,
-             SrsLink = model.SrsLink,
-             Status = model.Status
+             ProjectVersionId = model.ProjectVersionId
          };
 
         public static readonly Func<TestSuite, TestSuiteModel> EntityTestSuiteToModelMapper =
@@ -35,8 +29,6 @@ namespace TMS.Domain.ModelMappers
          {
              ID = model.ID,
              TestSuiteName = model.TestSuiteName,
-             CreatedDate = model.CreatedDate,
-             Author = model.Author,
              TestPlanId = model.TestPlanId
 
          };
@@ -46,26 +38,14 @@ namespace TMS.Domain.ModelMappers
          {
              ID = model.ID,
              TestCaseName = model.TestCaseName,
-             Author = model.Author,
              RunStatus = model.RunStatus,
-             SrsLink = model.SrsLink,
              Steps = model.Steps,
              TestSuiteId = model.TestSuiteId
-
-
-         };
-
-
-
-        public static readonly Func<TestPlanStatus, TestPlanStatusModel> EntityTestPlanStatusToModelMapper =
-        model => new TestPlanStatusModel()
-        {
-            ID = model.ID,
-            Status = model.Status
         };
 
 
-        public static readonly Func<TestCaseRunStatus, TestCaseRunStatusModel> EntityTestCaseRunStatusToModelMapper =
+
+              public static readonly Func<TestCaseRunStatus, TestCaseRunStatusModel> EntityTestCaseRunStatusToModelMapper =
          model => new TestCaseRunStatusModel()
       {
           ID = model.ID,
@@ -73,19 +53,14 @@ namespace TMS.Domain.ModelMappers
       };
 
 
-        public static readonly Func<ProjectPaymentType, ProjectPaymentTypeModel> EntityProjectPaymentTypeToModelMapper =
-        model => new ProjectPaymentTypeModel()
+              public static readonly Func<ProjectVersion, ProjectVersionModel> EntityProjectVersionToModelMapper =
+    model => new ProjectVersionModel()
     {
         ID = model.ID,
-        PaymentType = model.PaymentType
+        ProjectVersionName = model.ProjectVersionName,
+        ProjectId = model.ProjectId
+       
     };
-
-        public static readonly Func<TestCaseStep, TestCaseStepModel> EntityTestCaseStepToModelMapper =
-      model => new TestCaseStepModel()
-      {
-          ID = model.ID,
-          StepContent = model.StepContent
-      };
-
+   
     }
 }

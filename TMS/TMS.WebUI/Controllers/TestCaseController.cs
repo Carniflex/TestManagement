@@ -66,7 +66,7 @@ namespace TMS.WebUI.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    testCase.Author = User.Identity.Name;
+                  
                     _testCaseRepository.AddTestCase(testCase);
                  
                         return Json(String.Format("{0}?status=success", Url.Action("TestPlanDetails/" +id, "TestPlan")));

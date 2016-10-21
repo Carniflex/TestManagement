@@ -18,12 +18,10 @@ namespace TMS.WebUI.Controllers
         //
         // GET: /Project/
         private readonly IProjectRepository _projectRepo;
-        private readonly IPaymentTypeRepository _paymentTypeRepository;
         private readonly TmsDbContext _context;
         public ProjectController() {
 
             this._projectRepo = new EfProjectRepository();
-            this._paymentTypeRepository = new EFPaymentTypeRepository();
             this._context= new TmsDbContext();
         }
         public ActionResult Projects()
@@ -35,22 +33,9 @@ namespace TMS.WebUI.Controllers
 
          public ActionResult CreateProject() {
 
-             var payment = _paymentTypeRepository.PaymentTypes();
+         
 
-             List<SelectListItem> items = new List<SelectListItem>();
-
-             foreach (var p in payment)
-             {
-
-                 items.Add(new SelectListItem { Text = p.PaymentType, Value = p.ID.ToString() });
-
-             }
-
-             return View(new PaymentTypeVm()
-             {
-                 projectModel = new ProjectModel(),
-                 select = items
-             });
+            return View();
         
            
         }
@@ -105,22 +90,13 @@ namespace TMS.WebUI.Controllers
 
         public ActionResult EditProject(int id=0)
         {
-             var payment = _paymentTypeRepository.PaymentTypes();
+           
 
              List<SelectListItem> items = new List<SelectListItem>();
 
-             foreach (var p in payment)
-             {
+            
 
-                 items.Add(new SelectListItem { Text = p.PaymentType, Value = p.ID.ToString() });
-
-             }
-
-             return View(new PaymentTypeVm()
-             {
-                 projectModel = _projectRepo.GetProject(id),
-                 select = items
-             });
+             return View();
         }
 
         [HttpPost]
